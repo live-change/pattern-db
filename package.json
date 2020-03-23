@@ -1,0 +1,29 @@
+{
+  "name": "@live-change/pattern-db",
+  "version": "0.2.0",
+  "description": "Realtime usage pattern analysis - database storage backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test tape tests/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/live-change/pattern-db.git"
+  },
+  "author": {
+    "email": "m8@em8.pl",
+    "name": "Michał Łaszczewski",
+    "url": "https://www.viamage.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/live-change/pattern-db/issues"
+  },
+  "homepage": "https://github.com/live-change/pattern-db",
+  "devDependencies": {
+    "tape": "^4.13.0"
+  },
+  "dependencies": {
+    "@live-change/pattern": "^0.1.0"
+  }
+}
