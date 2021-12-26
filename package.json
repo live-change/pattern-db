@@ -24,6 +24,6 @@
     "tape": "^4.13.0"
   },
   "dependencies": {
-    "@live-change/pattern": "^0.1.0"
+    "@live-change/pattern": "^0.2.0"
   }
 }
